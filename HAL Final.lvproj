@@ -18,6 +18,10 @@
 			</Item>
 			<Item Name="MCU.lvclass" Type="LVClass" URL="../MCU/MCU.lvclass"/>
 		</Item>
+		<Item Name="Controls" Type="Folder">
+			<Item Name="Device Code.ctl" Type="VI" URL="../Controls/Device Code.ctl"/>
+			<Item Name="Device Command Code.ctl" Type="VI" URL="../Controls/Device Command Code.ctl"/>
+		</Item>
 		<Item Name="Dependencies" Type="Dependencies"/>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
