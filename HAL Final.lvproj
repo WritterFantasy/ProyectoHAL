@@ -13,6 +13,7 @@
 		<Item Name="Classes" Type="Folder">
 			<Item Name="Devices" Type="Folder">
 				<Item Name="Cypress CY8CKIT-059.lvclass" Type="LVClass" URL="../Cypress CY8CKIT-059/Cypress CY8CKIT-059.lvclass"/>
+				<Item Name="LibraryTester.vi" Type="VI" URL="../../Pistones/LibraryTester.vi"/>
 				<Item Name="Simulated Device.lvclass" Type="LVClass" URL="../Simulated Device/Simulated Device.lvclass"/>
 				<Item Name="TI MSP430F5529.lvclass" Type="LVClass" URL="../TI MSP430F5529/TI MSP430F5529.lvclass"/>
 			</Item>
