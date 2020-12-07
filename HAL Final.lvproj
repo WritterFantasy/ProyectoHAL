@@ -27,6 +27,7 @@
 		<Item Name="Support" Type="Folder">
 			<Item Name="Simulated Device FGV.vi" Type="VI" URL="../Simulated Device FGV.vi"/>
 			<Item Name="LibraryTester.vi" Type="VI" URL="../../Pistones/LibraryTester.vi"/>
+			<Item Name="Tests_SerialPortClose.vi" Type="VI" URL="../Tests_SerialPortClose.vi"/>
 		</Item>
 		<Item Name="Modules" Type="Folder">
 			<Item Name="Hardware Interface.lvlib" Type="Library" URL="../Libraries/Hardware Interface/Hardware Interface.lvlib"/>
