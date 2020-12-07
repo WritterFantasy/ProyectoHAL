@@ -26,6 +26,8 @@
 				<Item Name="ADCRequest (Reply Payload)--cluster.ctl" Type="VI" URL="../ADCRequest (Reply Payload)--cluster.ctl"/>
 				<Item Name="ReadPort Argument--cluster.ctl" Type="VI" URL="../ReadPort Argument--cluster.ctl"/>
 				<Item Name="ReadPort (Reply Payload)--cluster.ctl" Type="VI" URL="../ReadPort (Reply Payload)--cluster.ctl"/>
+				<Item Name="ReadPin Argument--cluster.ctl" Type="VI" URL="../ReadPin Argument--cluster.ctl"/>
+				<Item Name="ReadPin (Reply Payload)--cluster.ctl" Type="VI" URL="../ReadPin (Reply Payload)--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -44,6 +46,7 @@
 			<Item Name="ReadADC.vi" Type="VI" URL="../ReadADC.vi"/>
 			<Item Name="ADCRequest.vi" Type="VI" URL="../ADCRequest.vi"/>
 			<Item Name="ReadPort.vi" Type="VI" URL="../ReadPort.vi"/>
+			<Item Name="ReadPin.vi" Type="VI" URL="../ReadPin.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
