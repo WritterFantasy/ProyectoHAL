@@ -20,6 +20,7 @@
 				<Item Name="Get Module Execution Status Argument--cluster.ctl" Type="VI" URL="../Get Module Execution Status Argument--cluster.ctl"/>
 				<Item Name="Serial Device Init Argument--cluster.ctl" Type="VI" URL="../Serial Device Init Argument--cluster.ctl"/>
 				<Item Name="SetPort Argument--cluster.ctl" Type="VI" URL="../SetPort Argument--cluster.ctl"/>
+				<Item Name="SetPin Argument--cluster.ctl" Type="VI" URL="../SetPin Argument--cluster.ctl"/>
 			</Item>
 			<Item Name="Broadcast" Type="Folder">
 				<Item Name="Did Init Argument--cluster.ctl" Type="VI" URL="../Did Init Argument--cluster.ctl"/>
@@ -34,6 +35,7 @@
 			<Item Name="Show Diagram.vi" Type="VI" URL="../Show Diagram.vi"/>
 			<Item Name="Serial Device Init.vi" Type="VI" URL="../Serial Device Init.vi"/>
 			<Item Name="SetPort.vi" Type="VI" URL="../SetPort.vi"/>
+			<Item Name="SetPin.vi" Type="VI" URL="../SetPin.vi"/>
 		</Item>
 		<Item Name="Start Module.vi" Type="VI" URL="../Start Module.vi"/>
 		<Item Name="Synchronize Module Events.vi" Type="VI" URL="../Synchronize Module Events.vi"/>
